@@ -125,6 +125,32 @@
       "phone": "975943974",
       "place": "San Juan de Lurigancho",
       "email": "juancarlosenrique@gmail.com",
-      "photo": "https://cdn3.iconfinder.com/data/icons/business-avatar-1/512/10_avatar-512.png" }
+      "photo": "https://cdn3.iconfinder.com/data/icons/business-avatar-1/512/10_avatar-512.png" },
+{
+      "name": "Sebas Yabiku",
+      "username": "syabiku",
+      "password": "123",
+      "age": "33",
+      "firstTime": false
+      "id": 9,
+      "profile": "Hola Soy un programador",
+      "specialization": "San Juan de Miraflores",
+      "phone": "975943974",
+      "place": "San Juan de Lurigancho",
+      "email": "juancarlosenrique@gmail.com",
+      "photo": "https://cdn3.iconfinder.com/data/icons/business-avatar-1/512/12_avatar-512.png" },
+{
+      "name": "Harel Kamil",
+      "username": harel	
+      "password": "123",
+      "age": "6",
+      "firstTime": true,
+      "id": 9,
+      "profile": "Hola Soy un programador",
+      "specialization": "San Juan de Miraflores",
+      "phone": "975943974",
+      "place": "San Juan de Lurigancho",
+      "email": "juancarlosenrique@gmail.com",
+      "photo": "https://cdn3.iconfinder.com/data/icons/business-avatar-1/512/13_avatar-512.png" }
   ]
 }
